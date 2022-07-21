@@ -9,11 +9,12 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 * Software: Python 3.10.6, Visual Studio Code, Jupyter Lab
 
 ## Analysis and Results
-1. Describe differences in ride-sharing by city type from Januarey to April. 
 
-3. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
+  #Ride-sharing dataframe include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
 
 ![PyBer Summary DataFrame](https://github.com/maureengamache/PyBer_Analysis/blob/main/PyBer%20Summary%20DataFrame.png)
+
+  #Describe differences in ride-sharing by city type. 
 
 ![Total Fare by City Type](https://github.com/maureengamache/PyBer_Analysis/blob/main/Total%20Fare%20by%20City%20Type.png)
 
