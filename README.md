@@ -9,6 +9,7 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 * Software: Python 3.10.6, Visual Studio Code, Jupyter Lab
 
 ## Analysis and Results
+Overall, the urban cities have the most rides, while the rural cities have the least rides.
 
 ### Ride-sharing data summary. 
 
