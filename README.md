@@ -22,5 +22,4 @@ When analyzing total fare by city type (see *figure 2* below), the same results 
 ![Total Fare by City Type](https://github.com/maureengamache/PyBer_Analysis/blob/main/Total%20Fare%20by%20City%20Type.png)
 
 ## Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+Given the results and analysis above, there are three recommendations that I would suggest to the CEO of PyBer. First, assuming that demand for rides is constant across the three types of cities, in the month of January, I would redistribute drivers from the urban cities to suburban cities, or provide incentives for drivers to accept fares in the suburban citites in order to maximize revenue. Second, at the end of March and beginning of April, I would reallotcate or incentivize drivers to accept fares in rural cities rather than suburban cities. Finally, at the beginning of March, I would reallocate or incentivize drivers to  accept fares in urban cities rather than suburban cities. By making these adjustments, profits will increase overall for PyBer.
