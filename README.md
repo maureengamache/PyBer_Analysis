@@ -11,7 +11,7 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 ## Analysis and Results
 Overall, the urban cities have the most rides, while the rural cities have the least rides. Additionally, the urban cities have the most drivers, while the rural cities have the least drivers. Total revenue (fares) is the highest in the urban cities and the lowest in the rural citites. However, when looking at the average fare per ride and the average fare per dirver the rural cities have a higher per ride fare and per driver fare, than the urban cities. Suburban cities are steadily in the "middle" for all catergories of interest, falling between urban and rural citites for total rides, drivers, and fares; and between rural and urban cities, for average fare per ride and average fare per driver (see *figure 1* below). 
 
-### Ride-sharing data summary. 
+### Ride-sharing data summary (*Figure 1*) 
 
 ![PyBer Summary DataFrame](https://github.com/maureengamache/PyBer_Analysis/blob/main/PyBer%20Summary%20DataFrame.png)
 
