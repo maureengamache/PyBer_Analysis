@@ -17,7 +17,7 @@ When analyzing total fare by city type (see *figure 2* below), the same results 
 
 ![PyBer Summary DataFrame](https://github.com/maureengamache/PyBer_Analysis/blob/main/PyBer%20Summary%20DataFrame.png)
 
-### Ride-sharing line graph. 
+### Ride-sharing line graph (*Figure 2*) 
 
 ![Total Fare by City Type](https://github.com/maureengamache/PyBer_Analysis/blob/main/Total%20Fare%20by%20City%20Type.png)
 
