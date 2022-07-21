@@ -10,11 +10,11 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 
 ## Analysis and Results
 
-### Ride-sharing dataframe include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
+### Ride-sharing data summary. 
 
 ![PyBer Summary DataFrame](https://github.com/maureengamache/PyBer_Analysis/blob/main/PyBer%20Summary%20DataFrame.png)
 
-### Describe differences in ride-sharing by city type. 
+### Ride-sharing line graph. 
 
 ![Total Fare by City Type](https://github.com/maureengamache/PyBer_Analysis/blob/main/Total%20Fare%20by%20City%20Type.png)
 
